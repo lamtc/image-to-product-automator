@@ -4,8 +4,8 @@
  * Plugin URI: 
  * Description: Automatically creates WooCommerce products from uploaded images
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: 
+ * Author: SonicWP
+ * Author URI: https://sonicwp.dev
  * Text Domain: image-to-product-automator
  * Requires at least: 5.8
  * Requires PHP: 7.4
